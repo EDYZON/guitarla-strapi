@@ -7,3 +7,6 @@ En esta clase se realizo la introducción de cada uno de los componenentes que i
 #Clase 181.- Creando un content type y añadiendo un campo.
 
 #Clase 182.- En esta clase se creo una colección llamado guitarra y se le añadio el campo nombre.
+
+#Clase 183.- Agregando cloudynary a strapi
+En esta clase se realizo la instalación del plugin de cloudinary para strapi
