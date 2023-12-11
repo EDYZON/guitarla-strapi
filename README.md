@@ -10,3 +10,6 @@ En esta clase se realizo la introducción de cada uno de los componenentes que i
 
 #Clase 183.- Agregando cloudynary a strapi
 En esta clase se realizo la instalación del plugin de cloudinary para strapi
+
+#Clase 184.- Registrando las guitarras
+En esta clase se realizo la primera inserción de un registro desde el dashboard de strapi
