@@ -13,3 +13,6 @@ En esta clase se realizo la instalación del plugin de cloudinary para strapi
 
 #Clase 184.- Registrando las guitarras
 En esta clase se realizo la primera inserción de un registro desde el dashboard de strapi
+
+#Clase 185.- Habilitar el acceso a guitarras.
+En esta clase se realizo la creación de la primera END POINT API, se habilito el token para poder consumir los datos.
