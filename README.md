@@ -22,3 +22,6 @@ En esta clase se añadio una nueva colección al proyecto, esta colección fue p
 
 #Clase 187.- Agregando un Single PostType para cursos.
 En esta clase se realizo la introducción de que es un custom post type, para posteriormente crearlo en el backend de strapi.
+
+#Clase 188.- Añadiendo contenido al custom postType
+En esta clase, se añadio contenido al nuevo custom post type, se le dio permisos de lectura para ser consultado a traves de API rest.
