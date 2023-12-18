@@ -19,3 +19,6 @@ En esta clase se realizo la creación de la primera END POINT API, se habilito e
 
 #Clase 186.- Creando el blog.
 En esta clase se añadio una nueva colección al proyecto, esta colección fue para implementar un blog, con los campos de titulo, contenido y una imagen.
+
+#Clase 187.- Agregando un Single PostType para cursos.
+En esta clase se realizo la introducción de que es un custom post type, para posteriormente crearlo en el backend de strapi.
