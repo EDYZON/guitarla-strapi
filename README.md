@@ -16,3 +16,6 @@ En esta clase se realizo la primera inserción de un registro desde el dashboard
 
 #Clase 185.- Habilitar el acceso a guitarras.
 En esta clase se realizo la creación de la primera END POINT API, se habilito el token para poder consumir los datos.
+
+#Clase 186.- Creando el blog.
+En esta clase se añadio una nueva colección al proyecto, esta colección fue para implementar un blog, con los campos de titulo, contenido y una imagen.
